@@ -33,7 +33,7 @@ For our out-of-town visitors, we can work with you to handle reservations at nea
 
 #### Registration
 
-[Please complete [this survey to sign up](https://forms.gle/AYqFW2EbrF9LMe7j6) to receive updates via our event mailing list.
+Please complete [this survey to sign up](https://forms.gle/AYqFW2EbrF9LMe7j6) to receive updates via our event mailing list.
 
 Conference registration is TBA and will be handled by IEEE VIS main.
 
