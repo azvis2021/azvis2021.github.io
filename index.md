@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+## Welcome to AZ VIS 2021!
 
-You can use the [editor on GitHub](https://github.com/azvis2021/azvis2021.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+The University of Arizona and Arizona State University are jointly organize an [IEEE VIS](http://ieeevis.org/) 2021 [satellite event](http://ieeevis.org/year/2021/info/call-participation/satellite) in Tucson, AZ, Oct. 24-29. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Who we are
 
-### Markdown
+This event will bring together multiple communities, including the [HDC](http://hdc.cs.arizona.edu/), [VADER](http://vader.lab.asu.edu/), and [SVL](https://chrisbryan.github.io/research/) visualization research groups. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Additionally, this event interfaces with the larger Data Science communities
+of both campuses, particularly the UA's [Data Science Institute](https://datascience.arizona.edu/) and [UITS Research Computing](https://it.arizona.edu/research).
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### What's happening during the week
 
-- Bulleted
-- List
+Our satellite event will host viewing options for all of the virtual [IEEE VIS 2021 Program](http://ieeevis.org/year/2021/info/week-at-a-glance), 6:00am-1:30pm daily (additional details forthcoming).
 
-1. Numbered
-2. List
+We plan to reserve space for the week in the [Biosciences Research Laboratories (BSRL)](https://bsrl.arizona.edu/content/floorplans) and the adjacent [Health Sciences Innovation Building (HSIB)](https://uahs.arizona.edu/scheduling/tucson-hsib).
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+#### Local Programming
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+In addition to hosting events from the main conference, there will be numerous local events as well in the afternoon.  Please check back for the complete schedule here.
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/azvis2021/azvis2021.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Registration
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+TBD -- will be handled by IEEE VIS
+
+
+### Local Organizers
+
+Organizational Chairs
+
+Joshua A. Levine (UA, HDC) (for inquiries, contact) [josh@email.arizona.edu](mailto:josh@email.arizona.edu)
+Ross Maciejewski (ASU, VADER)
+Nirav Merchant (UA, DSI)
+
+Organizational Committee
+
+Devin Bayly (UA, UITS)
+Chris Bryan (ASU, SVL)
+Katherine Isaacs (UA, HDC)
+Stephen Kobourov (UA, HDC)
+Carlos Scheidegger (UA, HDC)
