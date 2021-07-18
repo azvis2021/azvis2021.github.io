@@ -1,6 +1,6 @@
 ## Welcome to AZ VIS 2021!
 
-The University of Arizona and Arizona State University are jointly organize an [IEEE VIS](http://ieeevis.org/) 2021 [satellite event](http://ieeevis.org/year/2021/info/call-participation/satellite) in Tucson, AZ, Oct. 24-29. 
+The University of Arizona and Arizona State University are jointly organizing an [IEEE VIS](http://ieeevis.org/) 2021 [satellite event](http://ieeevis.org/year/2021/info/call-participation/satellite) in Tucson, AZ, Oct. 24-29. 
 
 ### Who we are
 
@@ -12,7 +12,7 @@ of both campuses, particularly the UA's [Data Science Institute](https://datasci
 
 ### What's happening during the week
 
-Our satellite event will host viewing options for all of the virtual [IEEE VIS 2021 Program](http://ieeevis.org/year/2021/info/week-at-a-glance), 6:00am-1:30pm daily (additional details forthcoming).
+Our satellite event will host viewing options for all of the virtual [IEEE VIS 2021 Program](http://ieeevis.org/year/2021/info/week-at-a-glance), 6:00am-1:30pm MST daily (additional details forthcoming).
 
 We plan to reserve space for the week in the [Biosciences Research Laboratories (BSRL)](https://bsrl.arizona.edu/content/floorplans) and the adjacent [Health Sciences Innovation Building (HSIB)](https://uahs.arizona.edu/scheduling/tucson-hsib).
 
@@ -32,14 +32,14 @@ TBD -- will be handled by IEEE VIS
 
 Organizational Chairs
 
-Joshua A. Levine (UA, HDC) (for inquiries, contact) [josh@email.arizona.edu](mailto:josh@email.arizona.edu)
-Ross Maciejewski (ASU, VADER)
+Joshua A. Levine (UA, HDC) (for inquiries, contact [josh@email.arizona.edu](mailto:josh@email.arizona.edu) \
+Ross Maciejewski (ASU, VADER) \
 Nirav Merchant (UA, DSI)
 
 Organizational Committee
 
-Devin Bayly (UA, UITS)
-Chris Bryan (ASU, SVL)
-Katherine Isaacs (UA, HDC)
-Stephen Kobourov (UA, HDC)
+Devin Bayly (UA, UITS) \
+Chris Bryan (ASU, SVL) \
+Katherine Isaacs (UA, HDC) \
+Stephen Kobourov (UA, HDC) \
 Carlos Scheidegger (UA, HDC)
