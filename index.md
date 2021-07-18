@@ -30,13 +30,13 @@ TBD -- will be handled by IEEE VIS
 
 ### Local Organizers
 
-Organizational Chairs
+*Organizational Chairs*
 
-Joshua A. Levine (UA, HDC) (for inquiries, contact [josh@email.arizona.edu](mailto:josh@email.arizona.edu) \
+Joshua A. Levine (UA, HDC) (for inquiries, contact [josh@email.arizona.edu](mailto:josh@email.arizona.edu) ) \
 Ross Maciejewski (ASU, VADER) \
 Nirav Merchant (UA, DSI)
 
-Organizational Committee
+*Organizational Committee*
 
 Devin Bayly (UA, UITS) \
 Chris Bryan (ASU, SVL) \
