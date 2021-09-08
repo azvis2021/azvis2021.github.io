@@ -12,13 +12,19 @@ of both campuses, particularly the UA's [Data Science Institute](https://datasci
 
 ## What's happening during the week
 
-Our satellite event will host viewing options for all of the virtual [IEEE VIS 2021 Program](http://ieeevis.org/year/2021/info/week-at-a-glance), 6:00am-1:30pm MST daily (additional details forthcoming).
+Our satellite event will host viewing options for the virtual [IEEE VIS 2021 Program](http://ieeevis.org/year/2021/info/week-at-a-glance), 6:00am-1:30pm MST daily (additional details forthcoming).
 
 #### Local Programming
 
-In addition to hosting events from the main conference, there will be numerous local events in the afternoon after the main conference.  These events will help to highlight the exciting visualization work happening in southern AZ, build connections between the many communities, and offer opportunities for celebrating visualization.
+In addition to hosting events from the main conference, there will be local events in the afternoon after the main conference.  These events will help to highlight the exciting visualization work happening in southern AZ, build connections between the many communities, and offer opportunities for celebrating visualization.
 
-Please check back for the complete schedule here.
+Currently, we are anticipating hosting:
+
+* A local doctoral colloquium
+* VIS lighting talks
+* Community mixer / birds-of-a-feather style sessions
+
+Please check back for more details and the complete schedule here.
 
 
 
@@ -35,7 +41,7 @@ For our out-of-town visitors, we can work with you to handle reservations at nea
 
 Please complete [this survey to sign up](https://forms.gle/AYqFW2EbrF9LMe7j6) to receive updates via our event mailing list.
 
-Conference registration is TBA and will be handled by IEEE VIS main.
+Conference registration is free to students and will be handled by IEEE VIS.  [Register for IEEE VIS here](http://ieeevis.org/year/2021/info/registration/conference-registration)
 
 
 
