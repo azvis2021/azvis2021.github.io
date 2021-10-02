@@ -32,7 +32,7 @@ Please check back for more details and the complete schedule here.
 
 #### Location 
 
-We plan to reserve space for the week in the [Biosciences Research Laboratories (BSRL)](https://bsrl.arizona.edu/content/floorplans) and the adjacent [Health Sciences Innovation Building (HSIB)](https://uahs.arizona.edu/scheduling/tucson-hsib).
+We are reserving space for the week in the [Health Sciences Innovation Building (HSIB)](https://uahs.arizona.edu/scheduling/tucson-hsib).
 
 For our out-of-town visitors, we can work with you to handle reservations at nearby hotels such as [Aloft Tucson University](https://www.marriott.com/hotels/travel/tusal-aloft-tucson-university/) and [Tucson Marriott University Park](https://www.marriott.com/hotels/travel/tusmp-tucson-marriott-university-park/).
 
