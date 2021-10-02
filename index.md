@@ -51,7 +51,8 @@ Conference registration is free to students and will be handled by IEEE VIS.  [R
 
 Joshua A. Levine (UA, HDC) (for inquiries, contact [josh@email.arizona.edu](mailto:josh@email.arizona.edu)) \
 Ross Maciejewski (ASU, VADER) \
-Nirav Merchant (UA, DSI)
+Nirav Merchant (UA, DSI) \
+Maliaca Oxnam (UA, DSI) 
 
 **Organizational Committee**
 
