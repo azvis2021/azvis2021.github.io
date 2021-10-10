@@ -15,7 +15,7 @@ of both campuses, particularly the UA's [Data Science Institute](https://datasci
 
 ## What's happening during the week
 
-Our satellite event will host viewing options for the virtual [IEEE VIS 2021 Program](http://ieeevis.org/year/2021/info/week-at-a-glance), 8:00am-1:30pm MST daily starting on Monday, October 25.
+Our satellite event will host viewing options for the virtual [IEEE VIS 2021 Program](http://ieeevis.org/year/2021/info/week-at-a-glance), 8:00am-11:30am MST daily starting on Monday, October 25, in addition to local programming throughout the week.
 
 
 #### Preliminary Schedule
@@ -23,7 +23,7 @@ Our satellite event will host viewing options for the virtual [IEEE VIS 2021 Pro
 
 | Day       | Times (MST)     | Event | Rooms |
 |:----------|:----------------|:------|:------|
-| Monday    | 1:30pm-3:00pm   | Doctoral Colloquium (DC, invite-only) | HSIB 442/443 |
+| Monday    | 1:30pm-3:00pm   | *Doctoral Colloquium (DC, invite-only)* | HSIB 442/443 |
 |:----------|:----------------|:------|:------|
 | Tuesday   | 7:30am-8:00am   | AZ VIS Local Opening          | HSIB 305 |
 |           | 8:00am-9:30am   | VIS Best Paper Session        | HSIB 305 |
