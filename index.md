@@ -15,7 +15,7 @@ of both campuses, particularly the UA's [Data Science Institute](https://datasci
 
 ## What's happening during the week
 
-Our satellite event will host viewing options for the virtual [IEEE VIS 2021 Program](http://ieeevis.org/year/2021/info/week-at-a-glance), 8:00am-11:30am MST daily starting on Monday, October 25, in addition to local programming throughout the week.
+Our satellite event will host viewing options for the virtual [IEEE VIS 2021 Program](http://ieeevis.org/year/2021/info/week-at-a-glance), 8:00am-11:30am MST daily starting on Monday, October 25, in addition to *local programming events* throughout the week.
 
 
 #### Preliminary Schedule
@@ -25,17 +25,17 @@ Our satellite event will host viewing options for the virtual [IEEE VIS 2021 Pro
 |:----------|:----------------|:------|:------|
 | Monday    | 1:30pm-3:00pm   | *Doctoral Colloquium (DC, invite-only)* | HSIB 442/443 |
 |:----------|:----------------|:------|:------|
-| Tuesday   | 7:30am-8:00am   | AZ VIS Local Opening          | HSIB 305 |
+| Tuesday   | 7:30am-8:00am   | *AZ VIS Local Opening*        | HSIB 305 |
 |           | 8:00am-9:30am   | VIS Best Paper Session        | HSIB 305 |
 |           | 9:30am-10:00am  | Coffee Break                  | |
 |           | 10:00am-11:00am | VIS Keynote                   | HSIB 305 |
-|           | 11:00am-1:00pm  | AZ VIS Showcase Lunch (VSL)   | HSIB Annex |
-|           | 1:00pm-2:30pm   | AZ VIS Lightning Talks (LT)   | HSIB 305 |
+|           | 11:00am-1:00pm  | *AZ VIS Showcase Lunch (VSL)* | HSIB Annex |
+|           | 1:00pm-2:30pm   | *AZ VIS Lightning Talks (LT)* | HSIB 305 |
 |:----------|:----------------|:------|:------|
 | Wednesday | 8:00am-9:30am   | VIS Parallel Sessions         | HSIB 320,321,442,443 |
 |           | 9:30am-10:00am  | Coffee Break                  | |
 |           | 10:00am-11:30am | VIS Parallel Sessions         | HSIB 320,321,442,443 |
-|           | 11:30am-1:00pm  | AZ VIS Birds-of-a-Feather Lunch (BOF) | HSIB Annex |
+|           | 11:30am-1:00pm  | *AZ VIS Birds-of-a-Feather Lunch (BOF)* | HSIB Annex |
 |:----------|:----------------|:------|:------|
 | Thursday  | 8:00am-9:30am   | VIS Parallel Sessions         | HSIB 320,321,442,443 |
 |           | 9:30am-10:00am  | Coffee Break                  | |
