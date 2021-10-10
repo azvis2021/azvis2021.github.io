@@ -1,3 +1,6 @@
+---
+---
+
 ## Welcome to AZ VIS 2021!
 
 The University of Arizona and Arizona State University are jointly organizing an [IEEE VIS](http://ieeevis.org/) 2021 [satellite event](http://ieeevis.org/year/2021/info/call-participation/satellite) in Tucson, AZ, Oct. 24-29. 
@@ -14,17 +17,59 @@ of both campuses, particularly the UA's [Data Science Institute](https://datasci
 
 Our satellite event will host viewing options for the virtual [IEEE VIS 2021 Program](http://ieeevis.org/year/2021/info/week-at-a-glance), 6:00am-1:30pm MST daily (additional details forthcoming).
 
+
+#### Preliminary Schedule
+
+
+| Day       | Times (MST)     | Event | Rooms |
+|:----------|:----------------|:------|:------|
+| Monday    | 1:30pm-3:00pm   | Doctoral Colloquium (DC, invite-only) | HSIB 442/443 |
+|:----------|:----------------|:------|:------|
+| Tuesday   | 7:30am-8:00am   | AZ VIS Local Opening          | HSIB 305 |
+|           | 8:00am-9:30am   | VIS Best Paper Session        | HSIB 305 |
+|           | 9:30am-10:00am  | Coffee Break                  | |
+|           | 10:00am-11:00am | VIS Keynote                   | HSIB 305 |
+|           | 11:00am-1:00pm  | AZ VIS Showcase Lunch (VSL)   | HSIB Annex |
+|           | 1:00pm-2:30pm   | AZ VIS Lightning Talks (LT)   | HSIB 305 |
+|:----------|:----------------|:------|:------|
+| Wednesday | 8:00am-9:30am   | VIS Parallel Sessions         | HSIB 320,321,442,443 |
+|           | 9:30am-10:00am  | Coffee Break                  | |
+|           | 10:00am-11:30am | VIS Parallel Sessions         | HSIB 320,321,442,443 |
+|           | 11:30am-1:00pm  | AZ VIS Birds-of-a-Feather Lunch (BOF) | HSIB Annex |
+|:----------|:----------------|:------|:------|
+| Thursday  | 8:00am-9:30am   | VIS Parallel Sessions         | HSIB 320,321,442,443 |
+|           | 9:30am-10:00am  | Coffee Break                  | |
+|           | 10:00am-11:30am | VIS Parallel Sessions         | HSIB 320,321,442,443 |
+|           | 11:30am-1:00pm  | VIS 2022 Kickoff / Townhall   | HSIB 322 |
+|:----------|:----------------|:------|:------|
+| Friday    | 8:00am-9:30am   | VIS Parallel Sessions         | HSIB 305,306,320,321 |
+|           | 9:30am-10:00am  | Coffee Break                  | |
+|           | 10:00am-11:30am | VIS Capstone                  | HSIB 305 |
+|:----------|:----------------|:------|:------|
+
+
+
 #### Local Programming
 
-In addition to hosting events from the main conference, there will be local events in the afternoon after the main conference.  These events will help to highlight the exciting visualization work happening in southern AZ, build connections between the many communities, and offer opportunities for celebrating visualization.
+In addition to hosting events from the main conference we are organizing four different local events to highlight the exciting visualization work happening in southern AZ, build connections between the many communities, and offer opportunities for celebrating visualization.
 
-Currently, we are anticipating hosting:
+*** 
+<center>Deadlines for DC/LT signups are Oct. 12, Deadlines for VSL/BOF are Oct. 19!</center>
+***
 
-* A local doctoral colloquium
-* VIS lighting talks
-* Community mixer / birds-of-a-feather style sessions
 
-Please check back for more details and the complete schedule here.
+* Doctoral Colloquium (DC) (Signup: [https://forms.gle/26Jk2QKpycEH5cdb9](https://forms.gle/26Jk2QKpycEH5cdb9))  
+Participating Ph.D. students present their proposed dissertation work and receive feedback from leading visualization researchers. We invite contributions from student communities involved in all areas of visualization.  
+
+* Lightning Talks (LT) (Signup: [https://forms.gle/tKWkr2ThpkH1THx3A](https://forms.gle/tKWkr2ThpkH1THx3A))  
+An opportunity to present your work related to visualization! The talks are limited to three minutes each. You do not have to be a visualization specialist to participate. We invite talks from all visualization-interested parties across Arizona.  
+
+* VIS Showcase Lunch (VSL) (Signup: [https://forms.gle/ZHjJsu5zfkMkrZjx7](https://forms.gle/ZHjJsu5zfkMkrZjx7))  
+Find out more about the visualization researchers in our local southern AZ community in an informal setting where we eat, chat, and talk about recent work.  Meet and mingle with VIS researchers from ASU and UA and share lunch on Tuesday.
+
+* Birds-of-a-Feather (BOF) Lunch (Signup: [https://forms.gle/r7b1be2fkBYHotoM8](https://forms.gle/r7b1be2fkBYHotoM8))  
+Talk about specific VIS-related topics with those who share the same passions as you.  We provide lunch, and you provide the discussion topics.  We will group people by table based on topics of interest to discuss on Wednesday
+
 
 
 

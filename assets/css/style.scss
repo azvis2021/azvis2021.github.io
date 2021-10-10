@@ -1,0 +1,36 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+
+
+.main-content table {
+  font-size: 90%;
+}
+
+.main-content table th {
+  border: 0;
+  border-left: 1px solid #e9ebec;
+  padding-bottom: 3px;
+}
+
+.main-content table th:nth-child(1) {
+  border: 0;
+}
+
+.main-content table td {
+  border: 0;
+  border-left: 1px solid #e9ebec;
+  padding-top: 3px;
+  padding-bottom: 6px;
+}
+
+.main-content table td:nth-child(1) {
+  border: 0;
+}
+
+
+tbody {
+  border-top: solid black 2px;
+}
