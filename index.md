@@ -15,7 +15,7 @@ of both campuses, particularly the UA's [Data Science Institute](https://datasci
 
 ## What's happening during the week
 
-Our satellite event will host viewing options for the virtual [IEEE VIS 2021 Program](http://ieeevis.org/year/2021/info/week-at-a-glance), 6:00am-1:30pm MST daily (additional details forthcoming).
+Our satellite event will host viewing options for the virtual [IEEE VIS 2021 Program](http://ieeevis.org/year/2021/info/week-at-a-glance), 8:00am-1:30pm MST daily starting on Monday, October 25.
 
 
 #### Preliminary Schedule
