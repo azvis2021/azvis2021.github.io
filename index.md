@@ -54,7 +54,7 @@ Our satellite event will host viewing options for the virtual [IEEE VIS 2021 Pro
 In addition to hosting events from the main conference we are organizing four different local events to highlight the exciting visualization work happening in southern AZ, build connections between the many communities, and offer opportunities for celebrating visualization.
 
 *** 
-<center>Deadlines for DC/LT signups are Oct. 12, Deadlines for VSL/BOF are Oct. 19!</center>
+<center>Deadlines for DC/LT signups are Oct. 12 (rolling), Deadlines for VSL/BOF are Oct. 19!</center>
 ***
 
 
