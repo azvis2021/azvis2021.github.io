@@ -17,32 +17,55 @@ of both campuses, particularly the UA's [Data Science Institute](https://datasci
 
 Our satellite event will host viewing options for the virtual [IEEE VIS 2021 Program](http://ieeevis.org/year/2021/info/week-at-a-glance), 8:00am-11:30am MST daily starting on Monday, October 25, in addition to *local programming events* throughout the week.
 
-
 #### Preliminary Schedule
+
+([Registering for the IEEE VIS conference](http://ieeevis.org/year/2021/info/registration/conference-registration) will provide access to information about each of these events through the [virtual conference website (virtual.ieeevis.org)](https://virtual.ieeevis.org/).)
 
 
 | Day       | Times (MST)     | Event | Rooms |
 |:----------|:----------------|:------|:------|
-| Monday    | 1:30pm-3:00pm   | *Doctoral Colloquium (DC, invite-only)* | HSIB 442/443 |
+| Mon.    | 1:30pm-4:00pm   | *Doctoral Colloquium (DC) (invite-only)* | HSIB 442/443 |
 |:----------|:----------------|:------|:------|
-| Tuesday   | 7:30am-8:00am   | *AZ VIS Local Opening*        | HSIB 305 |
+| Tues.   | 7:30am-8:00am   | *AZ VIS Local Opening*        | HSIB 305 |
 |           | 8:00am-9:30am   | VIS Best Paper Session        | HSIB 305 |
 |           | 9:30am-10:00am  | Coffee Break                  | |
 |           | 10:00am-11:00am | VIS Keynote                   | HSIB 305 |
 |           | 11:00am-1:00pm  | *AZ VIS Showcase Lunch (VSL)* | HSIB Annex |
 |           | 1:00pm-2:30pm   | *AZ VIS Lightning Talks (LT)* | HSIB 305 |
+||| --- LT Program coming soon --- | |
 |:----------|:----------------|:------|:------|
-| Wednesday | 8:00am-9:30am   | VIS Parallel Sessions         | HSIB 320,321,442,443 |
+| Wed. | 8:00am-9:30am   | VIS Parallel Sessions         | |
+||| --- Papers: Multi-View and Visual Environments | HSIB 320 |
+||| --- Papers: CG&A - Data Physicalization| HSIB 321 |
+||| --- Short Papers: AI+VIS | HSIB 442 |
+||| --- Panel: What is the Role of VIS in Combating COVID-19? | HSIB 443 |
 |           | 9:30am-10:00am  | Coffee Break                  | |
-|           | 10:00am-11:30am | VIS Parallel Sessions         | HSIB 320,321,442,443 |
+|           | 10:00am-11:30am | VIS Parallel Sessions         | |
+||| --- Papers: Immersive Environments, Personal Vis,<br/>&nbsp;&nbsp;&nbsp;&nbsp; and Dashboards | HSIB 320 |
+||| --- Papers: Multi-Dimensional Data | HSIB 321 |
+||| --- Papers: CG&A - Visualizing big issues: Culture,<br/>&nbsp;&nbsp;&nbsp;&nbsp; Climate Change, and Communities | HSIB 442 |
+||| --- Arts Program: VISAP Session 1 | HSIB 443 |
 |           | 11:30am-1:00pm  | *AZ VIS Birds-of-a-Feather Lunch (BOF)* | HSIB Annex |
 |:----------|:----------------|:------|:------|
-| Thursday  | 8:00am-9:30am   | VIS Parallel Sessions         | HSIB 320,321,442,443 |
+| Thurs.  | 8:00am-9:30am   | VIS Parallel Sessions         | |
+||| --- Papers: Grammar and Learning | HSIB 320 |
+||| --- Short Papers: Graphs, Charts, and Perception | HSIB 321 |
+||| --- App Spotlight: Challenges for Visualization in<br/>&nbsp;&nbsp;&nbsp;&nbsp; Immersive Planetarium Domes | HSIB 442 |
+||| --- Panel: Towards Accessible Data Representations | HSIB 443 |
 |           | 9:30am-10:00am  | Coffee Break                  | |
-|           | 10:00am-11:30am | VIS Parallel Sessions         | HSIB 320,321,442,443 |
+|           | 10:00am-11:30am | VIS Parallel Sessions         | |
+||| --- Papers: Time Series and Events | HSIB 320 |
+||| --- Papers: Graphs and Trees | HSIB 321 |
+||| --- Papers: Mitigating Bias | HSIB 442 |
+||| --- Short Papers: Applications | HSIB 443 |
 |           | 11:30am-1:00pm  | VIS 2022 Kickoff / Townhall   | HSIB 322 |
+|           | 12:00pm-1:00pm  | Student Mentorship Session    | HSIB 323 |
 |:----------|:----------------|:------|:------|
-| Friday    | 8:00am-9:30am   | VIS Parallel Sessions         | HSIB 305,306,320,321 |
+| Fri.    | 8:00am-9:30am   | VIS Parallel Sessions         | |
+||| --- Papers: Model Evaluation | HSIB 305 |
+||| --- Papers: Biological and Medical Visualization | HSIB 306 |
+||| --- App Spotlight: Visualization Challenges in Deep Uncertainty | HSIB 320 |
+||| --- Panel: Navigating Interdisciplinary Careers in Visualization | HSIB 321 |
 |           | 9:30am-10:00am  | Coffee Break                  | |
 |           | 10:00am-11:30am | VIS Capstone                  | HSIB 305 |
 |:----------|:----------------|:------|:------|
