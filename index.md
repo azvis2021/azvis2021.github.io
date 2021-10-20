@@ -112,6 +112,10 @@ Please complete [this survey to sign up](https://forms.gle/AYqFW2EbrF9LMe7j6) to
 Conference registration is free to students and will be handled by IEEE VIS.  [Register for IEEE VIS here](http://ieeevis.org/year/2021/info/registration/conference-registration)
 
 
+#### Code of Conduct
+
+All attendees of AZ VIS are subject to the [IEEE VIS Code of Conduct](http://ieeevis.org/year/2021/info/inclusion-and-diversity/code-of-conduct) and [IEEE Code of Conduct](https://www.ieee.org/conferences/event-terms-and-conditions.html#event-conduct-and-safety).
+
 
 ## Local Organizers
 
@@ -129,3 +133,11 @@ Chris Bryan (ASU, SVL) \
 Katherine Isaacs (UA, HDC) \
 Stephen Kobourov (UA, HDC) \
 Carlos Scheidegger (UA, HDC)
+
+
+
+#### Acknowledgements
+
+The venue for the this event was sponsored by University of Arizona Health Sciences administration [https://uahs.arizona.edu/](https://uahs.arizona.edu/)
+
+We respectfully acknowledge the University of Arizona is on the land and territories of Indigenous peoples. Today, Arizona is home to 22 federally recognized tribes, with Tucson being home to the O’odham and the Yaqui. Committed to diversity and inclusion, the University strives to build sustainable relationships with sovereign Native Nations and Indigenous communities through education offerings, partnerships, and community service.
