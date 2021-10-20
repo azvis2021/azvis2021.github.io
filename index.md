@@ -135,8 +135,20 @@ Stephen Kobourov (UA, HDC) \
 Carlos Scheidegger (UA, HDC)
 
 
+<table style="text-align: center;">
+<tbody style="border: none">
+<tr><td> <br/> </td></tr>
+<tr>
+<td><img src="assets/HDC.png" alt="logo-hdc" style="margin: 0 10px; height:60px;"></td>
+<td><img src="assets/CAOE.png" alt="logo-caoe" style="margin: 0 10px; height:50px;"></td>
+<td><img src="assets/DSI.png" alt="logo-dsi" style="margin: 0 10px; height:50px;"></td>
+</tr>
+<tr><td> <br/> </td></tr>
+</tbody>
+</table>
 
-#### Acknowledgements
+
+#### Acknowledgments
 
 The venue for the this event was sponsored by University of Arizona Health Sciences administration [https://uahs.arizona.edu/](https://uahs.arizona.edu/)
 
