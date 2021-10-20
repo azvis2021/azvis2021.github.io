@@ -1,4 +1,4 @@
----
+G--
 ---
 
 ## Welcome to AZ VIS 2021!
@@ -107,7 +107,7 @@ For our out-of-town visitors, we can work with you to handle reservations at nea
 
 #### Registration
 
-Please complete [this survey to sign up](https://forms.gle/AYqFW2EbrF9LMe7j6) to receive updates via our event mailing list.
+Please complete [our sign up form](https://forms.gle/AYqFW2EbrF9LMe7j6) to receive updates via our event mailing list.
 
 Conference registration is free to students and will be handled by IEEE VIS.  [Register for IEEE VIS here](http://ieeevis.org/year/2021/info/registration/conference-registration)
 
