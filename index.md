@@ -24,7 +24,7 @@ Our satellite event will host viewing options for the virtual [IEEE VIS 2021 Pro
 
 | Day       | Times (MST)     | Event | Rooms |
 |:----------|:----------------|:------|:------|
-| Mon.    | 1:30pm-4:00pm   | *Doctoral Colloquium (DC) (invite-only)* | HSIB 442/443 |
+| Mon.    | 1:30pm-4:00pm   | *Doctoral Colloquium (DC) (invite-only)* | HSIB 320/321 |
 |:----------|:----------------|:------|:------|
 | Tues.   | 7:30am-8:00am   | *AZ VIS Local Opening*        | HSIB 305 |
 |           | 8:00am-9:30am   | VIS Best Paper Session        | HSIB 305 |
