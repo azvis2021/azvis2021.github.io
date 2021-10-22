@@ -77,15 +77,38 @@ Our satellite event will host viewing options for the virtual [IEEE VIS 2021 Pro
 In addition to hosting events from the main conference we are organizing four different local events to highlight the exciting visualization work happening in southern AZ, build connections between the many communities, and offer opportunities for celebrating visualization.
 
 *** 
-<center>Deadlines for DC/LT signups are Oct. 12 (rolling),<br> Deadlines for VSL/BOF are <s>Oct. 19</s> (extended to) Oct. 23!</center>
+<center>{% comment %} Deadlines for DC/LT signups are Oct. 12 (rolling),<br>{% endcomment %} Deadlines for VSL/BOF are <s>Oct. 19</s> (extended to) Oct. 23!</center>
 ***
 
 
-* Doctoral Colloquium (DC) (Signup: [https://forms.gle/26Jk2QKpycEH5cdb9](https://forms.gle/26Jk2QKpycEH5cdb9))  
+* Doctoral Colloquium (DC) {% comment %} (Signup: [https://forms.gle/26Jk2QKpycEH5cdb9](https://forms.gle/26Jk2QKpycEH5cdb9)) {% endcomment %} 
 Participating Ph.D. students present their proposed dissertation work and receive feedback from leading visualization researchers. We invite contributions from student communities involved in all areas of visualization.  
 
-* Lightning Talks (LT) (Signup: [https://forms.gle/tKWkr2ThpkH1THx3A](https://forms.gle/tKWkr2ThpkH1THx3A))  
+* Lightning Talks (LT) {% comment %} (Signup: [https://forms.gle/tKWkr2ThpkH1THx3A](https://forms.gle/tKWkr2ThpkH1THx3A)) {% endcomment %} 
 An opportunity to present your work related to visualization! The talks are limited to three minutes each. You do not have to be a visualization specialist to participate. We invite talks from all visualization-interested parties across Arizona.  
+
+Preliminary Schedule for the LTs, Tuesday, Oct. 25, 1:00-2:30pm:
+
+| Time | Presenter | Title |
+|:-----------|:----------|:------|
+1:00pm | Aditi Mishra | Why? Why not? When? Visual Explanations of Agent Behavior in<br/>Reinforcement Learning 
+1:05pm | Dorsey Kaufmann | Workshop to Prototyping: Identifying web viz requirements from<br/> participatory stakeholder activities
+1:10pm | Yixuan Wang | Cost-Benefit of Interactive Labelling System
+1:15pm | Brian Bollen | Contour Tree Edit Distance
+|:-----------|:----------|:------|
+1:20pm | Jinbin Huang | Visualization on Multi-modality
+1:25pm | Winslow Burleson | UArizona Holodeck: A Convergence Catalyst for Research, Education,<br/> and Innovation
+1:30pm | Tiankai Xie |  Explaining Vulnerabilities to Adversarial Machine Learning through<br/> Visual Analytics
+1:35pm | Sayef Azad Sakin | Designing scalable timeline charts for millions of tasks
+|:-----------|:----------|:------|
+1:40pm | Anjana Arunkumar | Affordances and Aesthetics
+1:45pm | Devin Bayly | The Future of Research Technologies Remote Display
+1:50pm | Kairong Jiang | Error Diagnosis for Volume Rendering Surrogates
+1:55pm | Jieqiong Zhao | Exploring Moral Foundations Framings in Terrorist Organizations
+|:-----------|:----------|:------|
+2:00pm | All | Informal discussions between presenters and audience
+
+<br/>
 
 * VIS Showcase Lunch (VSL) (Signup: [https://forms.gle/ZHjJsu5zfkMkrZjx7](https://forms.gle/ZHjJsu5zfkMkrZjx7))  
 Find out more about the visualization researchers in our local southern AZ community in an informal setting where we eat, chat, and talk about recent work.  Meet and mingle with VIS researchers from ASU and UA and share lunch on Tuesday.
