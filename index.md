@@ -17,6 +17,26 @@ of both campuses, particularly the UA's [Data Science Institute](https://datasci
 
 Our satellite event will host viewing options for the virtual [IEEE VIS 2021 Program](http://ieeevis.org/year/2021/info/week-at-a-glance), 8:00am-11:30am MST daily starting on Monday, October 25, in addition to *local programming events* throughout the week.
 
+
+#### Local Event Signups and IEEE VIS Registration
+
+
+Please complete [our sign up form](https://forms.gle/AYqFW2EbrF9LMe7j6) to receive updates via our event mailing list.
+
+Conference registration is free to students and will be handled by IEEE VIS.  [Register for IEEE VIS here](http://ieeevis.org/year/2021/info/registration/conference-registration)
+
+*** 
+<center>{% comment %} Deadlines for DC/LT signups are Oct. 12 (rolling),<br>{% endcomment %} Deadlines for VSL/BOF are <s>Oct. 19</s> (extended to) Oct. 23!</center>
+***
+
+* VIS Showcase Lunch (VSL) (Signup: [https://forms.gle/ZHjJsu5zfkMkrZjx7](https://forms.gle/ZHjJsu5zfkMkrZjx7))  
+Find out more about the visualization researchers in our local southern AZ community in an informal setting where we eat, chat, and talk about recent work.  Meet and mingle with VIS researchers from ASU and UA and share lunch on Tuesday.
+
+* Birds-of-a-Feather (BOF) Lunch (Signup: [https://forms.gle/r7b1be2fkBYHotoM8](https://forms.gle/r7b1be2fkBYHotoM8))  
+Talk about specific VIS-related topics with those who share the same passions as you.  We provide lunch, and you provide the discussion topics.  We will group people by table based on topics of interest to discuss on Wednesday
+
+
+
 #### Preliminary Schedule
 
 ([Registering for the IEEE VIS conference](http://ieeevis.org/year/2021/info/registration/conference-registration) will provide access to information about each of these events through the [virtual conference website (virtual.ieeevis.org)](https://virtual.ieeevis.org/).)
@@ -76,11 +96,6 @@ Our satellite event will host viewing options for the virtual [IEEE VIS 2021 Pro
 
 In addition to hosting events from the main conference we are organizing four different local events to highlight the exciting visualization work happening in southern AZ, build connections between the many communities, and offer opportunities for celebrating visualization.
 
-*** 
-<center>{% comment %} Deadlines for DC/LT signups are Oct. 12 (rolling),<br>{% endcomment %} Deadlines for VSL/BOF are <s>Oct. 19</s> (extended to) Oct. 23!</center>
-***
-
-
 * Doctoral Colloquium (DC) {% comment %} (Signup: [https://forms.gle/26Jk2QKpycEH5cdb9](https://forms.gle/26Jk2QKpycEH5cdb9)) {% endcomment %} 
 Participating Ph.D. students present their proposed dissertation work and receive feedback from leading visualization researchers. We invite contributions from student communities involved in all areas of visualization.  
 
@@ -108,13 +123,7 @@ Preliminary Schedule for the LTs, Tuesday, Oct. 25, 1:00-2:30pm:
 |:-----------|:----------|:------|
 2:00pm | All | Informal discussions between presenters and audience
 
-<br/>
 
-* VIS Showcase Lunch (VSL) (Signup: [https://forms.gle/ZHjJsu5zfkMkrZjx7](https://forms.gle/ZHjJsu5zfkMkrZjx7))  
-Find out more about the visualization researchers in our local southern AZ community in an informal setting where we eat, chat, and talk about recent work.  Meet and mingle with VIS researchers from ASU and UA and share lunch on Tuesday.
-
-* Birds-of-a-Feather (BOF) Lunch (Signup: [https://forms.gle/r7b1be2fkBYHotoM8](https://forms.gle/r7b1be2fkBYHotoM8))  
-Talk about specific VIS-related topics with those who share the same passions as you.  We provide lunch, and you provide the discussion topics.  We will group people by table based on topics of interest to discuss on Wednesday
 
 
 
@@ -128,11 +137,6 @@ We are reserving space for the week in the [Health Sciences Innovation Building 
 For our out-of-town visitors, we can work with you to handle reservations at nearby hotels such as [Aloft Tucson University](https://www.marriott.com/hotels/travel/tusal-aloft-tucson-university/) and [Tucson Marriott University Park](https://www.marriott.com/hotels/travel/tusmp-tucson-marriott-university-park/).
 
 
-#### Registration
-
-Please complete [our sign up form](https://forms.gle/AYqFW2EbrF9LMe7j6) to receive updates via our event mailing list.
-
-Conference registration is free to students and will be handled by IEEE VIS.  [Register for IEEE VIS here](http://ieeevis.org/year/2021/info/registration/conference-registration)
 
 
 #### Code of Conduct
