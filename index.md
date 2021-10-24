@@ -52,7 +52,7 @@ Talk about specific VIS-related topics with those who share the same passions as
 |           | 10:00am-11:00am | VIS Keynote                   | HSIB 305 |
 |           | 11:00am-1:00pm  | *AZ VIS Showcase Lunch (VSL)* | HSIB Annex |
 |           | 1:00pm-2:30pm   | *AZ VIS Lightning Talks (LT)* | HSIB 305 |
-||| --- LT Program coming soon --- | |
+||| --- [LT Program Schedule](#lightning-talks-lt) --- | |
 |:----------|:----------------|:------|:------|
 | Wed. | 8:00am-9:30am   | VIS Parallel Sessions         | |
 ||| --- Papers: Multi-View and Visual Environments | HSIB 320 |
@@ -92,14 +92,14 @@ Talk about specific VIS-related topics with those who share the same passions as
 
 
 
-#### Local Programming
+### Local Programming
 
 In addition to hosting events from the main conference we are organizing four different local events to highlight the exciting visualization work happening in southern AZ, build connections between the many communities, and offer opportunities for celebrating visualization.
 
-* Doctoral Colloquium (DC) {% comment %} (Signup: [https://forms.gle/26Jk2QKpycEH5cdb9](https://forms.gle/26Jk2QKpycEH5cdb9)) {% endcomment %} 
-Participating Ph.D. students present their proposed dissertation work and receive feedback from leading visualization researchers. We invite contributions from student communities involved in all areas of visualization.  
 
-* Lightning Talks (LT) {% comment %} (Signup: [https://forms.gle/tKWkr2ThpkH1THx3A](https://forms.gle/tKWkr2ThpkH1THx3A)) {% endcomment %} 
+#### Lightning Talks (LT) 
+
+{% comment %} (Signup: [https://forms.gle/tKWkr2ThpkH1THx3A](https://forms.gle/tKWkr2ThpkH1THx3A)) {% endcomment %} 
 An opportunity to present your work related to visualization! The talks are limited to three minutes each. You do not have to be a visualization specialist to participate. We invite talks from all visualization-interested parties across Arizona.  
 
 Preliminary Schedule for the LTs, Tuesday, Oct. 25, 1:00-2:30pm:
@@ -124,6 +124,9 @@ Preliminary Schedule for the LTs, Tuesday, Oct. 25, 1:00-2:30pm:
 2:00pm | All | Informal discussions between presenters and audience
 
 
+#### Doctoral Colloquium (DC) 
+{% comment %} (Signup: [https://forms.gle/26Jk2QKpycEH5cdb9](https://forms.gle/26Jk2QKpycEH5cdb9)) {% endcomment %} 
+Participating Ph.D. students present their proposed dissertation work and receive feedback from leading visualization researchers. We invite contributions from student communities involved in all areas of visualization.  
 
 
 
