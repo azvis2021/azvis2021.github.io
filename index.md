@@ -15,29 +15,27 @@ of both campuses, particularly the UA's [Data Science Institute](https://datasci
 
 ## What's happening during the week
 
-Our satellite event will host viewing options for the virtual [IEEE VIS 2021 Program](http://ieeevis.org/year/2021/info/week-at-a-glance), 8:00am-11:30am MST daily starting on Monday, October 25, in addition to *local programming events* throughout the week.
+Our satellite event will host viewing options for the virtual [IEEE VIS 2021 Program](http://ieeevis.org/year/2021/info/week-at-a-glance), 8:00am-11:30am MST daily starting on Monday, October 25, in addition to [local programming](#local-programming) throughout the week.
 
 
-#### Local Event Signups and IEEE VIS Registration
+#### Email Signup and IEEE VIS Registration
 
 
 Please complete [our sign up form](https://forms.gle/AYqFW2EbrF9LMe7j6) to receive updates via our event mailing list.
 
 Conference registration is free to students and will be handled by IEEE VIS.  [Register for IEEE VIS here](http://ieeevis.org/year/2021/info/registration/conference-registration)
 
+{% comment %}
 *** 
-<center>{% comment %} Deadlines for DC/LT signups are Oct. 12 (rolling),<br>{% endcomment %} Deadlines for VSL/BOF are <s>Oct. 19</s> (extended to) Oct. 23!</center>
+<center> Deadlines for DC/LT signups are Oct. 12 (rolling),<br>
+Deadlines for VSL/BOF are <s>Oct. 19</s> (extended to) Oct. 23!</center>
 ***
-
-* VIS Showcase Lunch (VSL) (Signup: [https://forms.gle/ZHjJsu5zfkMkrZjx7](https://forms.gle/ZHjJsu5zfkMkrZjx7))  
-Find out more about the visualization researchers in our local southern AZ community in an informal setting where we eat, chat, and talk about recent work.  Meet and mingle with VIS researchers from ASU and UA and share lunch on Tuesday.
-
-* Birds-of-a-Feather (BOF) Lunch (Signup: [https://forms.gle/r7b1be2fkBYHotoM8](https://forms.gle/r7b1be2fkBYHotoM8))  
-Talk about specific VIS-related topics with those who share the same passions as you.  We provide lunch, and you provide the discussion topics.  We will group people by table based on topics of interest to discuss on Wednesday
+{% endcomment %}
 
 
 
-#### Preliminary Schedule
+
+#### Schedule
 
 ([Registering for the IEEE VIS conference](http://ieeevis.org/year/2021/info/registration/conference-registration) will provide access to information about each of these events through the [virtual conference website (virtual.ieeevis.org)](https://virtual.ieeevis.org/).)
 
@@ -96,9 +94,17 @@ Talk about specific VIS-related topics with those who share the same passions as
 
 In addition to hosting events from the main conference we are organizing four different local events to highlight the exciting visualization work happening in southern AZ, build connections between the many communities, and offer opportunities for celebrating visualization.
 
+#### VIS Showcase Lunch (VSL) 
+{% comment %} (Signup: [https://forms.gle/ZHjJsu5zfkMkrZjx7](https://forms.gle/ZHjJsu5zfkMkrZjx7))  {% endcomment %}
+Find out more about the visualization researchers in our local southern AZ community in an informal setting where we eat, chat, and talk about recent work.  Meet and mingle with VIS researchers from ASU and UA and share lunch on Tuesday.
+
+
+#### Birds-of-a-Feather (BOF) Lunch 
+{% comment %} (Signup: [https://forms.gle/r7b1be2fkBYHotoM8](https://forms.gle/r7b1be2fkBYHotoM8)) {% endcomment %}  
+Talk about specific VIS-related topics with those who share the same passions as you.  We provide lunch, and you provide the discussion topics.  We will group people by table based on topics of interest to discuss on Wednesday
+
 
 #### Lightning Talks (LT) 
-
 {% comment %} (Signup: [https://forms.gle/tKWkr2ThpkH1THx3A](https://forms.gle/tKWkr2ThpkH1THx3A)) {% endcomment %} 
 An opportunity to present your work related to visualization! The talks are limited to three minutes each. You do not have to be a visualization specialist to participate. We invite talks from all visualization-interested parties across Arizona.  
 
