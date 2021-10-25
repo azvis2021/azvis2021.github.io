@@ -122,10 +122,9 @@ Preliminary Schedule for the LTs, Tuesday, Oct. 25, 1:00-2:30pm:
 1:30pm | Tiankai Xie |  Explaining Vulnerabilities to Adversarial Machine Learning through<br/> Visual Analytics
 1:35pm | Sayef Azad Sakin | Designing scalable timeline charts for millions of tasks
 |:-----------|:----------|:------|
-1:40pm | Anjana Arunkumar | Affordances and Aesthetics
-1:45pm | Devin Bayly | The Future of Research Technologies Remote Display
-1:50pm | Kairong Jiang | Error Diagnosis for Volume Rendering Surrogates
-1:55pm | Jieqiong Zhao | Exploring Moral Foundations Framings in Terrorist Organizations
+1:40pm | Devin Bayly | The Future of Research Technologies Remote Display
+1:45pm | Kairong Jiang | Error Diagnosis for Volume Rendering Surrogates
+1:50pm | Jieqiong Zhao | Exploring Moral Foundations Framings in Terrorist Organizations
 |:-----------|:----------|:------|
 2:00pm | All | Informal discussions between presenters and audience
 
