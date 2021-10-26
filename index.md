@@ -114,17 +114,18 @@ Preliminary Schedule for the LTs, Tuesday, Oct. 25, 1:00-2:30pm:
 |:-----------|:----------|:------|
 1:00pm | Aditi Mishra | Why? Why not? When? Visual Explanations of Agent Behavior in<br/>Reinforcement Learning 
 1:05pm | Dorsey Kaufmann | Workshop to Prototyping: Identifying web viz requirements from<br/> participatory stakeholder activities
+|:-----------|:----------|:------|
 1:10pm | Yixuan Wang | Cost-Benefit of Interactive Labelling System
 1:15pm | Brian Bollen | Contour Tree Edit Distance
 |:-----------|:----------|:------|
 1:20pm | Jinbin Huang | Visualization on Multi-modality
 1:25pm | Winslow Burleson | UArizona Holodeck: A Convergence Catalyst for Research, Education,<br/> and Innovation
+|:-----------|:----------|:------|
 1:30pm | Tiankai Xie |  Explaining Vulnerabilities to Adversarial Machine Learning through<br/> Visual Analytics
 1:35pm | Sayef Azad Sakin | Designing scalable timeline charts for millions of tasks
 |:-----------|:----------|:------|
 1:40pm | Devin Bayly | The Future of Research Technologies Remote Display
 1:45pm | Kairong Jiang | Error Diagnosis for Volume Rendering Surrogates
-1:50pm | Jieqiong Zhao | Exploring Moral Foundations Framings in Terrorist Organizations
 |:-----------|:----------|:------|
 2:00pm | All | Informal discussions between presenters and audience
 
