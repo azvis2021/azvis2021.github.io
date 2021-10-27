@@ -65,6 +65,9 @@ Deadlines for VSL/BOF are <s>Oct. 19</s> (extended to) Oct. 23!</center>
 ||| --- Arts Program: VISAP Session 1 | HSIB 443 |
 |           | 11:30am-1:00pm  | *AZ VIS Birds-of-a-Feather Lunch (BOF)* | HSIB Annex |
 |:----------|:----------------|:------|:------|
+| Thurs.  | | Events Cancelled ||
+| Fri.  | | Events Cancelled ||
+{% comment %}
 | Thurs.  | 8:00am-9:30am   | VIS Parallel Sessions         | |
 ||| --- Papers: Grammar and Learning | HSIB 320 |
 ||| --- Short Papers: Graphs, Charts, and Perception | HSIB 321 |
@@ -87,7 +90,7 @@ Deadlines for VSL/BOF are <s>Oct. 19</s> (extended to) Oct. 23!</center>
 |           | 9:30am-10:00am  | Coffee Break                  | |
 |           | 10:00am-11:30am | VIS Capstone                  | HSIB 305 |
 |:----------|:----------------|:------|:------|
-
+{% endcomment %}
 
 
 ### Local Programming
